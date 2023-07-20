@@ -1,0 +1,15 @@
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\Task_52.csproj.AssemblyReference.cache
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\Task_52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfoInputs.cache
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfo.cs
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\Task_52.csproj.CoreCompileInputs.cache
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\bin\Debug\net6.0\Task_52.exe
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\bin\Debug\net6.0\Task_52.deps.json
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\bin\Debug\net6.0\Task_52.runtimeconfig.json
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\bin\Debug\net6.0\Task_52.dll
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\bin\Debug\net6.0\Task_52.pdb
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\Task_52.dll
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\refint\Task_52.dll
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\Task_52.pdb
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\Task_52.genruntimeconfig.cache
+D:\Hyb\GB\C#\DZ_7\DZ_7\Task_52\obj\Debug\net6.0\ref\Task_52.dll
